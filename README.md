@@ -2,7 +2,7 @@
 
 
 # Palmer-Penguins-Analysis
-My data visualization project on the Palmer Penguins dataset. This visualization contains the information regarding the analysis of the population observation of the three penguin species.
+My data visualization project on the Palmer Penguins dataset by Allison Horst, Alison Hill, and Kristen Gorman. This visualization contains the information regarding the analysis of the population observation of the three penguin species.
 
 # Tools
 • R Language <br>
