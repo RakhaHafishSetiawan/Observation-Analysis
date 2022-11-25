@@ -20,10 +20,10 @@ library(magrittr)
 ```
 
 ## Data Transformation Code
-In this chunk of code, i piped in the data set into several different dplyr functions, <br>
-the first function being the select function, because only needed four columns for the population observation analysis, <br>
-the second function being the drop_na function, so that Power BI does not misvisualise my data, <br>
-the third function being the combination of mutate and conditionals function, because i want to show the viewers of this repository <br>
+In this chunk of code, i piped in the data set into several different dplyr functions, 
+the first function being the select function, because only needed four columns for the population observation analysis, 
+the second function being the drop_na function, so that Power BI does not misvisualise my data, 
+the third function being the combination of mutate and conditionals function, because i want to show the viewers of this repository 
 about the conservation status of each observed species.
 
 ## Raw Data
